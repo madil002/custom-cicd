@@ -1,0 +1,22 @@
+{
+  "name": "custom-cicd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madil002/custom-cicd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madil002/custom-cicd/issues"
+  },
+  "homepage": "https://github.com/madil002/custom-cicd#readme",
+  "description": "",
+  "dependencies": {
+    "@actions/core": "^1.11.1"
+  }
+}
